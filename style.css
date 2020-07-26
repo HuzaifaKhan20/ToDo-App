@@ -1,0 +1,49 @@
+
+*{
+    text-align: center;
+    background-color: aquamarine;
+    
+}
+
+
+
+.inpBox{
+    width: 300px !important;
+    margin-top: 75px !important;
+    margin-left: 535px;
+    margin-bottom: 25px;
+    border: 3px solid black !important;
+    
+}
+
+
+.adBtn{
+    margin-bottom: 50px;
+}
+
+
+.deBtn{
+    margin-bottom: 50px;
+}
+
+
+.head1{
+    margin-top: 25px;
+    background-color: black;
+    height: 60px;
+    color: aquamarine;
+}
+
+.edBtn123{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+.list123{
+    background-color: black;
+    color: aquamarine;
+    margin-right: 50px;
+    
+}
